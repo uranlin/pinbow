@@ -1,9 +1,10 @@
-# ---
+- for 資工系 :
+	- 請用 git clone 來下載文件
 
-for 資工系 :
-請用 git clone 來下載文件
+- for 簡單版 ：
+	- 操作以下順序
 
-for 簡單版 ：
+# 有效無效問卷 
 
 1.下載文件
 ![image](./picture/1.png)
@@ -28,3 +29,10 @@ for 簡單版 ：
 6.打開 合併.ipynb
 
 7.點Run 就能執行完成嘞
+
+
+# 非YN問卷
+
+1.打開合併不是YN.ipynd
+
+2.點Rum
