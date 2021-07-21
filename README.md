@@ -10,6 +10,7 @@ for 簡單版 ：
 依圖片下載壓縮檔並解壓縮，解完壓縮把它放桌面
 
 2.把所有要合併的csv檔,放進data的資料夾裡
+- csv找學長拿嘿
 
 3.這裡windows鍵按下去(不知道那是甚麼的話左下角按搜尋)，打prompt，按Enter。
 - ps：如果沒有prompt，要下載anaconda
@@ -19,7 +20,7 @@ for 簡單版 ：
 
 ![image](./picture/2.png)
 
-4.在prompt裡面打jupyter notebook(注意中間有空格)
+4.在prompt裡面打jupyter notebook(注意中間有空格)，按下enter
 
 5.就能點進剛剛下載的資料夾拉
 - 桌面請點desktop
